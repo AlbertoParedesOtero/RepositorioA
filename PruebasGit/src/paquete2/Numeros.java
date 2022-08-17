@@ -11,9 +11,9 @@ package paquete2;
  */
 public class Numeros {
     public static void main(String[] args) {
-        
+        System.out.println("Esto probando el ejercicio de crear ramas");
         for(int i=0;i<10;i++){
-            System.out.println(i);
+            System.out.println("i vale ahora: "+i);
         }
         
     }
