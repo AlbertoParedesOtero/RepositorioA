@@ -15,7 +15,12 @@ public class PruebasGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Inicio del proyecto");
+        System.out.println("proyecto --- v2");
+        int i=0;
+        while(i<3){
+            System.out.println("i: "+i);
+            i++;
+        }
     }
     
 }
