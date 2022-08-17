@@ -16,6 +16,7 @@ public class PruebasGit {
      */
     public static void main(String[] args) {
         System.out.println("proyecto --- v2");
+        System.out.println("Esto lo he hecho desde el repositorio");
         int i=0;
         while(i<3){
             System.out.println("i: "+i);
